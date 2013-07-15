@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://XN--8DBPGO.urfreedvds.com/atom.xml" rel="self"/>
+  <link href="http://XN--8DBPGO.urfreedvds.com/"/>
+  <updated>2013-07-15T19:03:29+03:00</updated>
+  <id>http://XN&#8211;8DBPGO.urfreedvds.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[שבת שלום]]></title>
+    <link href="http://XN--8DBPGO.urfreedvds.com/blog/2013/07/15/%D7%A9%D7%91%D7%AA+%D7%A9%D7%9C%D7%95%D7%9D/"/>
+    <updated>2013-07-15T00:00:00+03:00</updated>
+    <id>http://XN&#8211;8DBPGO.urfreedvds.com/blog/2013/07/15/שבת שלום</id>
+    <content type="html"><![CDATA[<p>שבת שלום</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[sdsd]]></title>
+    <link href="http://XN--8DBPGO.urfreedvds.com/blog/2013/07/15/sdsdsd/"/>
+    <updated>2013-07-15T00:00:00+03:00</updated>
+    <id>http://XN&#8211;8DBPGO.urfreedvds.com/blog/2013/07/15/sdsdsd</id>
+    <content type="html"><![CDATA[<p>sdsdsdsddfdf</p>
+
+]]></content>
+  </entry>
+  
+</feed>
